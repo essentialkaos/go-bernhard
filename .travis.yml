@@ -19,6 +19,7 @@ matrix:
     - go: tip
 
 before_install:
+  - make deps
   - make deps-test
   - go get -v github.com/mattn/goveralls
   - npm install -g codeclimate-test-reporter
