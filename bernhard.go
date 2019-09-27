@@ -14,7 +14,7 @@ import (
 	"regexp"
 	"sync"
 
-	"pkg.re/essentialkaos/ek.v10/req"
+	"pkg.re/essentialkaos/ek.v11/req"
 )
 
 // ////////////////////////////////////////////////////////////////////////////////// //
@@ -115,14 +115,14 @@ func (c *Client) Send() error {
 
 	c.mutex.RLock()
 
-	defer c.mutex.RUnlock()
-
 	resp, err := req.Request{
 		URL:         c.url + "/events",
 		Body:        c.data,
 		ContentType: req.CONTENT_TYPE_JSON,
 		AutoDiscard: true,
 	}.Post()
+
+	c.mutex.RUnlock()
 
 	if err != nil {
 		return err
@@ -132,7 +132,9 @@ func (c *Client) Send() error {
 		return fmt.Errorf("Bernhard return status code %d", resp.StatusCode)
 	}
 
+	c.mutex.Lock()
 	c.data.Items = nil
+	c.mutex.Unlock()
 
 	return nil
 }
