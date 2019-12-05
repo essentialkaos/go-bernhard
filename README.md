@@ -6,6 +6,7 @@
   <a href="https://travis-ci.com/essentialkaos/bernhard"><img src="https://travis-ci.com/essentialkaos/bernhard.svg"></a>
   <a href='https://coveralls.io/github/essentialkaos/bernhard?branch=master'><img src='https://coveralls.io/repos/github/essentialkaos/bernhard/badge.svg?branch=master' alt='Coverage Status' /></a>
   <a href="https://codebeat.co/projects/github-com-essentialkaos-bernhard-master"><img alt="codebeat badge" src="https://codebeat.co/badges/958c1200-21d8-4e14-964e-fdc88000520c" /></a>
+  <a href="https://essentialkaos.com/ekol"><img src="https://gh.kaos.st/ekol.svg" /></a>
 </p>
 
 <p align="center"><a href="#installation">Installation</a> • <a href="#build-status">Build Status</a> • <a href="#license">License</a></p>
