@@ -27,13 +27,13 @@ git config --global http.https://pkg.re.followRedirects true
 Make sure you have a working Go 1.12+ workspace (_[instructions](https://golang.org/doc/install)_), then:
 
 ```
-go get pkg.re/essentialkaos/bernhard.v2
+go get pkg.re/essentialkaos/bernhard.v3
 ```
 
 For update to the latest stable release, do:
 
 ```
-go get -u pkg.re/essentialkaos/bernhard.v2
+go get -u pkg.re/essentialkaos/bernhard.v3
 ```
 
 ### Build Status
