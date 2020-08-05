@@ -1,8 +1,8 @@
 <p align="center"><a href="#readme"><img src="https://gh.kaos.st/go-bernhard.svg"/></a></p>
 
 <p align="center">
-  <a href="https://godoc.org/pkg.re/essentialkaos/bernhard.v2"><img src="https://godoc.org/pkg.re/essentialkaos/bernhard.v2?status.svg"></a>
-  <a href="https://goreportcard.com/report/github.com/essentialkaos/bernhard"><img src="https://goreportcard.com/badge/github.com/essentialkaos/bernhard"></a>
+  <a href="https://pkg.go.dev/github.com/essentialkaos/bernhard"><img src="https://pkg.go.dev/badge/github.com/essentialkaos/bernhard" /></a>
+  <a href="https://goreportcard.com/report/github.com/essentialkaos/bernhard"><img src="https://goreportcard.com/badge/github.com/essentialkaos/bernhard" /></a>
   <a href="https://travis-ci.com/essentialkaos/bernhard"><img src="https://travis-ci.com/essentialkaos/bernhard.svg"></a>
   <a href="https://github.com/essentialkaos/bernhard/actions?query=workflow%3ACodeQL"><img src="https://github.com/essentialkaos/bernhard/workflows/CodeQL/badge.svg" /></a>
   <a href='https://coveralls.io/github/essentialkaos/bernhard?branch=master'><img src='https://coveralls.io/repos/github/essentialkaos/bernhard/badge.svg?branch=master' alt='Coverage Status' /></a>
