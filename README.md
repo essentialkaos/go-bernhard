@@ -6,7 +6,7 @@
   <a href="https://travis-ci.com/essentialkaos/go-bernhard"><img src="https://travis-ci.com/essentialkaos/go-bernhard.svg"></a>
   <a href="https://github.com/essentialkaos/go-bernhard/actions?query=workflow%3ACodeQL"><img src="https://github.com/essentialkaos/go-bernhard/workflows/CodeQL/badge.svg" /></a>
   <a href='https://coveralls.io/github/essentialkaos/go-bernhard?branch=master'><img src='https://coveralls.io/repos/github/essentialkaos/go-bernhard/badge.svg?branch=master' alt='Coverage Status' /></a>
-  <a href="https://codebeat.co/projects/github-com-essentialkaos-bernhard-master"><img alt="codebeat badge" src="https://codebeat.co/badges/958c1200-21d8-4e14-964e-fdc88000520c" /></a>
+  <a href="https://codebeat.co/projects/github-com-essentialkaos-go-bernhard-master"><img alt="codebeat badge" src="https://codebeat.co/badges/8c71749e-c184-4728-8301-715f81cd4d22" /></a>
   <a href="#license"><img src="https://gh.kaos.st/apache2.svg"></a>
 </p>
 
