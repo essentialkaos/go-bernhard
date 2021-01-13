@@ -1,7 +1,7 @@
 <p align="center"><a href="#readme"><img src="https://gh.kaos.st/go-bernhard.svg"/></a></p>
 
 <p align="center">
-  <a href="https://pkg.go.dev/pkg.re/essentialkaos/go-bernhard.v3"><img src="https://gh.kaos.st/godoc.svg" /></a>
+  <a href="https://pkg.re/essentialkaos/go-bernhard.v3?docs"><img src="https://gh.kaos.st/godoc.svg" alt="PkgGoDev"></a>
   <a href="https://goreportcard.com/report/github.com/essentialkaos/go-bernhard"><img src="https://goreportcard.com/badge/github.com/essentialkaos/go-bernhard" /></a>
   <a href="https://github.com/essentialkaos/go-bernhard/actions"><img src="https://github.com/essentialkaos/go-bernhard/workflows/CI/badge.svg" alt="GitHub Actions Status" /></a>
   <a href="https://github.com/essentialkaos/go-bernhard/actions?query=workflow%3ACodeQL"><img src="https://github.com/essentialkaos/go-bernhard/workflows/CodeQL/badge.svg" /></a>
