@@ -18,16 +18,16 @@
 
 ### Installation
 
-Make sure you have a working Go 1.16+ workspace (_[instructions](https://golang.org/doc/install)_), then:
+Make sure you have a working Go 1.17+ workspace (_[instructions](https://golang.org/doc/install)_), then:
 
 ```
-go get pkg.re/essentialkaos/go-bernhard.v3
+go get github.com/essentialkaos/go-bernhard/v3
 ```
 
 For update to the latest stable release, do:
 
 ```
-go get -u pkg.re/essentialkaos/go-bernhard.v3
+go get -u github.com/essentialkaos/go-bernhard/v3
 ```
 
 ### Build Status
