@@ -1,6 +1,6 @@
 <p align="center"><a href="#readme"><img src="https://gh.kaos.st/go-bernhard.svg"/></a></p>
 
-<p align="center"><a href="#installation">Installation</a> • <a href="#build-status">Build Status</a> • <a href="#license">License</a></p>
+<p align="center"><a href="#installation">Installation</a> • <a href="#license">License</a></p>
 
 <br/>
 
@@ -19,13 +19,6 @@ For update to the latest stable release, do:
 ```
 go get -u github.com/essentialkaos/go-bernhard/v3
 ```
-
-### Build Status
-
-| Branch | Status |
-|--------|----------|
-| `master` | [![CI](https://kaos.sh/w/go-bernhard/ci.svg?branch=master)](https://kaos.sh/w/go-bernhard/ci?query=branch:master) |
-| `develop` | [![CI](https://kaos.sh/w/go-bernhard/ci.svg?branch=develop)](https://kaos.sh/w/go-bernhard/ci?query=branch:develop) |
 
 ### License
 
